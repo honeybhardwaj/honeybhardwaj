@@ -10,6 +10,8 @@ I love to explore new tech feilds and learn new things and share them.
 
 Skills : python , java, c , django , selenium etc 💻
 
+currently started with opensource countributions 
+
 you can contact me at 
 
 Email : honey.bhardwaj.18cse@bmu.edu.in ✉️
