@@ -50,7 +50,7 @@ I live in pitampura,Delhi. 🏠<br>I love to code in python. 🥰 ❤️<br>curr
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"> </h2>
 <a href = 'https://www.linkedin.com/in/honeybhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://twitter.com/honney_bhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://honneybhardwaj.medium.com/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://honeybhardwaj.github.io'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/honeybhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
