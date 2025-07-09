@@ -1,69 +1,57 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=honeybhardwaj.honeybhardwaj)
- 
-</p>
-<div size='20px'> Hi! My name is Honey Bhardwaj.
-I live in pitampura,Delhi. 🏠<br>I love to code in python. 🥰 ❤️<br>currently pursuing my bachelor of Technology from BML Munjal University.
-<br>I love to explore new tech feilds and learn new things and share them.<br> Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+Hi! I'm **Honey Bhardwaj**, a Backend Developer based in Delhi, India 🏠
 
-<br>
-<br>
-<br>
+I specialize in designing and developing scalable, high-performance backend systems with a focus on conversational AI, automation, and system optimization. I enjoy working at the intersection of code and impact, building products that solve real problems through smart engineering.
 
-<h2> About Me</h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 👨‍💻 About Me
 
+<img align="right" width="45%" alt="Git" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Blogs Writing,  Projects
+- 🔧 Currently working on architecting and implementing large-scale voice and chat automation systems
+- 🧠 Skilled in event-driven systems, queue-based workflows, and API integrations
+- 📈 Built systems used by 100k+ users daily across multiple platforms
+- 🌱 Currently diving deeper into **React**, **Next.js**, and system design principles
+- 💬 Let's talk about: **Node.js, Python, System Design, Web Automation, Open Source**
+- ✍️ Sharing ideas and insights on [Medium](https://honneybhardwaj.medium.com)
 
-- 🌱 I’m currently learning Web Developement(HTML,CSS,Javascript,React) 
+---
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+### 🛠️ Tech Stack
 
-- 💬 Talk to me about Python, JavaScript, Open Source, Web development, IOT 
-  
-<br>
-<br>
-<br>
+**Languages & Frameworks:**  
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" width="40px"/> 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/react.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="40px"/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=python&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=javascript&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=c&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=mysql&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=java&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=html&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=css&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=flask&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<a href= https://github.com/honeybhardwaj?tab=repositories&q=&type=&language=selenium&sort= > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
+**Databases & Tools:**  
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" width="40px"/> 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg" width="40px"/> 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg" width="40px"/> 
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="40px"/>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" width="40px"/> 
 
-<br>
-<br>
-<br>
+---
 
+### 📊 GitHub Stats
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"> </h2>
-<a href = 'https://www.linkedin.com/in/honeybhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/honney_bhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://honneybhardwaj.medium.com/'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://honeybhardwaj.github.io'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/honeybhardwaj'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://dev.to/honeybhardwaj'><img width = "40px" align ='center'
-src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/></a>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=honeybhardwaj&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybhardwaj&layout=compact&theme=radical" /> |
+| ------------- | ------------- |
 
-<br>
-<br>
-<br>
+---
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> </h2>
-  
+### 🔗 Connect With Me
 
-  | Honey's Github Stats | Top Languages |
-| ----------- | ----------- |
-| ![](https://github-readme-stats.vercel.app/api?username=honeybhardwaj&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=honeybhardwaj&layout=compact) |
+<a href="https://www.linkedin.com/in/honeybhardwaj"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="https://twitter.com/honney_bhardwaj"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href="https://honneybhardwaj.medium.com/"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+<a href="https://honeybhardwaj.github.io"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<a href="https://www.github.com/honeybhardwaj"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://dev.to/honeybhardwaj"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/></a>
